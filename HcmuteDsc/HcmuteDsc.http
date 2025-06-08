@@ -1,0 +1,6 @@
+@HcmuteDsc_HostAddress = http://localhost:5001
+
+GET {{HcmuteDsc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
